@@ -1,8 +1,8 @@
 # NS4U APP 🎮
 
-> **Play Switch games on your PC or phone in no time!**
+> **Play Switch games on your PC or phone via Emulator!**
 
-NS4U is a powerful game management tool that brings your Switch gaming experience to PC and mobile devices. Built-in game library with tons of games ready to enjoy!
+NS4U is a powerful Switch gaming tool with a vast built-in game library and Switch emulator! It supports Switch emulators and the Atmosphere system.
 
 🌐 [Official Website](https://ns4u.fun) 📥 [Download](https://github.com/PhilipXing/NS4U/releases/tag/NS4U_APP)  
 
