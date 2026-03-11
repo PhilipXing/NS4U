@@ -32,13 +32,13 @@ NS4U is a powerful game management tool that brings your Switch gaming experienc
   <img src="screenshots/Windows/3.png" width="80%" />
 </p>
 <p align="center">
-  <img src="screenshots/windows/4.png" width="80%" />
+  <img src="screenshots/Windows/4.png" width="80%" />
 </p>
 <p align="center">
-  <img src="screenshots/windows/5.png" width="80%" />
+  <img src="screenshots/Windows/5.png" width="80%" />
 </p>
 <p align="center">
-  <img src="screenshots/windows/6.png" width="80%" />
+  <img src="screenshots/Windows/6.png" width="80%" />
 </p>
 </details>
 
