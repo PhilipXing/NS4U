@@ -19,8 +19,28 @@ NS4U is a powerful game management tool that brings your Switch gaming experienc
 
 ## 🖼️ Screenshots
 
-### PC Platform
-![PC Screenshot](screenshots/pc-1.png)
+### Windows Platform
+![PC Screenshot](screenshots/Windows/1.png)
+
+<details>
+<summary>🪟 More screenshots</summary>
+<br>
+<p align="center">
+  <img src="screenshots/Windows/2.png" width="80%" />
+</p>
+<p align="center">
+  <img src="screenshots/Windows/3.png" width="80%" />
+</p>
+<p align="center">
+  <img src="screenshots/windows/4.png" width="80%" />
+</p>
+<p align="center">
+  <img src="screenshots/windows/5.png" width="80%" />
+</p>
+<p align="center">
+  <img src="screenshots/windows/6.png" width="80%" />
+</p>
+</details>
 
 ### Android Platform
 ![Android Screenshot](screenshots/android-1.png)
