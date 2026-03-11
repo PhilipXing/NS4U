@@ -4,7 +4,7 @@
 
 NS4U is a powerful game management tool that brings your Switch gaming experience to PC and mobile devices. Built-in game library with tons of games ready to enjoy!
 
-[🌐 Official Website](https://ns4u.fun) 
+🌐 [Official Website](https://ns4u.fun) 📥 [Download](https://github.com/PhilipXing/NS4U/releases/tag/NS4U_APP)  
 
 ---
 
@@ -16,11 +16,6 @@ NS4U is a powerful game management tool that brings your Switch gaming experienc
 - 🔄 **Auto-Updates** - Always stay up to date with the latest version
 - 🎯 **User-Friendly Interface** - Clean and intuitive design
 
----
-
-## 📥 [Download](https://github.com/PhilipXing/NS4U/releases/tag/NS4U_APP) 
-
----
 
 ## 🖼️ Screenshots
 
