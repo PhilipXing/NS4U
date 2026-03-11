@@ -43,20 +43,15 @@ NS4U is a powerful game management tool that brings your Switch gaming experienc
 </details>
 
 ### Android Platform
-![Android Screenshot](screenshots/android-1.png)
-<details>
-<summary>🤖 Android (7 screenshots)</summary>
-<br>
 <p align="center">
-  <img src="screenshots/Android/01_2x.png" width="32%" />
-  <img src="screenshots/Android/02_2x.png" width="32%" />
-  <img src="screenshots/Android/03_2x.png" width="32%" />
+  <img src="screenshots/Android/01_2x.jpg" width="32%" />
+  <img src="screenshots/Android/02_2x.jpg" width="32%" />
+  <img src="screenshots/Android/03_2x.jpg" width="32%" />
 </p>
 <p align="center">
-  <img src="screenshots/Android/04_2x.png" width="24%" />
-  <img src="screenshots/Android/05_2x.png" width="24%" />
-  <img src="screenshots/Android/06_2x.png" width="24%" />
-  <img src="screenshots/Android/07_2x.png" width="24%" />
+  <img src="screenshots/Android/04_2x.jpg" width="24%" />
+  <img src="screenshots/Android/05_2x.jpg" width="24%" />
+  <img src="screenshots/Android/06_2x.jpg" width="24%" />
+  <img src="screenshots/Android/07_2x.jpg" width="24%" />
 </p>
-</details>
 
